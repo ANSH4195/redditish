@@ -53,17 +53,17 @@
 
 #### Desktop/Tablet
 
-![Desktop-home](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/desktop-home.png)
-![Desktop-2](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/desktop-2.png)
-![Desktop-3](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/desktop-3.png)
+![Desktop-home](https://github.com/ANSH4195/redditish/tree/main/screenshotsdesktop-home.png)
+![Desktop-2](https://github.com/ANSH4195/redditish/tree/main/screenshotsdesktop-2.png)
+![Desktop-3](https://github.com/ANSH4195/redditish/tree/main/screenshotsdesktop-3.png)
 
 #### Mobile
 
-![Mobile-home](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/mobile-home.png)
-![Mobile-2](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/mobile-2.png)
-![Mobile-3](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/mobile-3.png)
-![Mobile-4](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/mobile-4.png)
-![Mobile-5](https://github.com/ANSH4195/redditish-mern/blob/master/screenshots/mobile-5.png)
+![Mobile-home](https://github.com/ANSH4195/redditish/tree/main/screenshotsmobile-home.png)
+![Mobile-2](https://github.com/ANSH4195/redditish/tree/main/screenshotsmobile-2.png)
+![Mobile-3](https://github.com/ANSH4195/redditish/tree/main/screenshotsmobile-3.png)
+![Mobile-4](https://github.com/ANSH4195/redditish/tree/main/screenshotsmobile-4.png)
+![Mobile-5](https://github.com/ANSH4195/redditish/tree/main/screenshotsmobile-5.png)
 
 ## Usage
 
